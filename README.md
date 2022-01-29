@@ -1,4 +1,4 @@
-[![DukeofCambridge's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/DukeofCambridge/github-readme-stats)
+[![DukeofCambridge's GitHub stats](https://github-readme-stats.vercel.app/api?username=DukeofCambridge)](https://github.com/DukeofCambridge/github-readme-stats)
 
 <!--
 **DukeofCambridge/DukeofCambridge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
