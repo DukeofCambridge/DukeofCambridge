@@ -34,13 +34,13 @@
 <!--
 - 🔭 I’m currently working on ...-->
 
-- 🌱 正在学习：Unity, Vue and SpringCloud, DRL
+- 🌱 正在学习：Unity, Shader
 
 - 👯 梦想：Tech okakus save the world
 
 - 🤔 一切都是命运石之门的选择
 
-- 💬 个人主页：47.103.81.118:8080
+- 💬 君子和而不同
 
 - 📫 微信:Sgc1162524575
 
