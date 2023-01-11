@@ -1,7 +1,7 @@
 <p align="center">
   <h3 align="center">Guocheng Shao｜Tongji University</h3>
   <!--
-  <h5 align="center">不想当艺术家🎨的演讲者🎙不是好程序员💻</h5>
+  <h5 align="center">因为我们，诞生在了这个世界上🌱</h5>
   <h5 align="center">A speaker🎙 who doesn't want to be an artist🎨 is not a good programmer💻</h5
   -->
 </p>
@@ -34,9 +34,9 @@
 <!--
 - 🔭 I’m currently working on ...-->
 
-- 🌱 正在学习：Unity, Shader
+- 🌱 正在学习：Computer Graphics, Game Development
 
-- 👯 梦想：Tech okakus save the world
+- 👯 Tech okakus save the world
 
 - 🤔 一切都是命运石之门的选择
 
