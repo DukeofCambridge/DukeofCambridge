@@ -2,9 +2,9 @@
   <h3 align="center">Guocheng Shao｜Tongji University</h3>
   
   <h5 align="center">因为我们，诞生在了这个世界上🌱</h5>
-  <!--
-  <h5 align="center">A speaker🎙 who doesn't want to be an artist🎨 is not a good programmer💻</h5
-  -->
+  
+  <h5 align="center">Be a cosmopolitan🌍 tech💻-artist🎨 </h5>
+  
 </p>
 <!--
 <p align="center">
