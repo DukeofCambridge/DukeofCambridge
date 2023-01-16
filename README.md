@@ -3,7 +3,7 @@
   
   <h5 align="center">因为我们，诞生在了这个世界上🌱</h5>
   
-  <h5 align="center">Be a cosmopolitan🌍 tech💻-artist🎨 </h5>
+  <!--<h5 align="center">Be a cosmopolitan🌍 tech💻-artist🎨 </h5>-->
   
 </p>
 <!--
