@@ -35,7 +35,7 @@
 <!--
 - 🔭 I’m currently working on ...-->
 
-- 🌱 正在学习：Computer Graphics, Game Development
+- 🌱 I’m currently learning：Computer Graphics, Digital Content Creation, Game Development
 
 - 👯 Tech okakus save the world
 
@@ -43,9 +43,8 @@
 
 - 💬 君子和而不同
 
-- 📫 微信:Sgc1162524575
+- 📫 艺术，让人成为人。 Arts maketh man.
 
 - 😄 不犹豫，不后悔
 
-- ⚡ 十年月球人，E社老玩家
-
+<!--- ⚡ 十年月球人，E社老玩家-->
