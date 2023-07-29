@@ -1,5 +1,5 @@
 <p align="center">
-  <h3 align="center">Guocheng Shao｜Tongji University</h3>
+  <h3 align="center">Shao Guocheng</h3>
   
   <h5 align="center">因为我们，诞生在了这个世界上🌱</h5>
   
@@ -35,7 +35,7 @@
 <!--
 - 🔭 I’m currently working on ...-->
 
-- 🌱 I’m currently learning：Computer Graphics, Digital Content Creation, Game Development
+- 🌱 I’m currently learning：<b>Computer Graphics, Digital Content Creation, Game Development</b>
 
 - 👯 Tech okakus save the world
 
@@ -46,5 +46,10 @@
 - 📫 艺术，让人成为人。 Arts maketh man.
 
 - 😄 不犹豫，不后悔
+
+- 🔭 学习笔记：
+  【设计模式】 https://v6bn1welpm.feishu.cn/docx/BYAhdh0tpoHwQ2xekoXcdPf3nXg
+  【Effective C++】 https://v6bn1welpm.feishu.cn/docx/VV20dUFkIoh6phxjglgcaJUBnlh
+  【技术美术】 https://v6bn1welpm.feishu.cn/docx/RKoWd6NVVoBGvgxjjEkcEapxnBd      
 
 <!--- ⚡ 十年月球人，E社老玩家-->
