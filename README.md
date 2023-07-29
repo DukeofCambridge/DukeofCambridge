@@ -47,9 +47,9 @@
 
 - 😄 不犹豫，不后悔
 
-- 🔭 学习笔记：
-  【设计模式】 https://v6bn1welpm.feishu.cn/docx/BYAhdh0tpoHwQ2xekoXcdPf3nXg
-  【Effective C++】 https://v6bn1welpm.feishu.cn/docx/VV20dUFkIoh6phxjglgcaJUBnlh
-  【技术美术】 https://v6bn1welpm.feishu.cn/docx/RKoWd6NVVoBGvgxjjEkcEapxnBd      
+- 🔭 学习笔记：<br/>
+  【设计模式】 https://v6bn1welpm.feishu.cn/docx/BYAhdh0tpoHwQ2xekoXcdPf3nXg    <br/>
+  【Effective C++】 https://v6bn1welpm.feishu.cn/docx/VV20dUFkIoh6phxjglgcaJUBnlh    <br/>
+  【技术美术】 https://v6bn1welpm.feishu.cn/docx/RKoWd6NVVoBGvgxjjEkcEapxnBd      <br/>
 
 <!--- ⚡ 十年月球人，E社老玩家-->
