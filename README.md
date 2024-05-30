@@ -24,32 +24,33 @@
 -->
 
 
-
+<!--
 <p align = "center">
   <img src="https://github-readme-stats.vercel.app/api?username=DukeofCambridge&count_private=true&show_icons=true&hide_border=true&bg_color=25,050A27,4A54BC&title_color=ffffff&text_color=cccccc&icon_color=4A54BC&border_radius=5" />
 </p>
+-->
   
 <p align = "center">
   <img src="https://github-profile-trophy.vercel.app/?username=DukeofCambridge&column=5&row=1&no-bg=false&margin-w=10&no-frame=false" width="50%" />
 </p>
+
+- 🔭 My interests lie in: <b>Computer Graphics, Digital Content Creation, Game Development, AIGC</b>
 <!--
-- 🔭 I’m currently working on ...-->
-
 - 🌱 I’m currently learning：<b>Computer Graphics, Digital Content Creation, Game Development</b>
-
+-->
 - 👯 Tech okakus save the world
 
 - 🤔 一切都是命运石之门的选择
 
 - 💬 君子和而不同
 
-- 📫 艺术，让人成为人。 Arts maketh man.
+- 🎨 艺术，让人成为人。 Arts maketh man.
 
 - 😄 不犹豫，不后悔
-
+<!---
 - 🔭 学习笔记：<br/>
   【C++笔记】 https://v6bn1welpm.feishu.cn/docx/LGTfdEPM2odAJAxkUnecHOW6nKh   <br/>
   【设计模式】 https://v6bn1welpm.feishu.cn/docx/BYAhdh0tpoHwQ2xekoXcdPf3nXg    <br/>
   【技术美术】 https://v6bn1welpm.feishu.cn/docx/RKoWd6NVVoBGvgxjjEkcEapxnBd      <br/>
 
-<!--- ⚡ 十年月球人，E社老玩家-->
+ ⚡ 十年月球人，E社老玩家-->
