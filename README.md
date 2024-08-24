@@ -34,7 +34,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=DukeofCambridge&column=5&row=1&no-bg=false&margin-w=10&no-frame=false" width="50%" />
 </p>
 
-- 🔭 My interests lie in: <b>Computer Graphics, Digital Content Creation, Game Development, AIGC</b>
+- 🔭 My interests lie in: <b>AIGC, Computer Graphics, Digital Content Creation, Game Development, </b>
 <!--
 - 🌱 I’m currently learning：<b>Computer Graphics, Digital Content Creation, Game Development</b>
 -->
